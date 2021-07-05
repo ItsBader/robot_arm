@@ -1,2 +1,2 @@
 # robot_arm
-Uploaded are two files, The html file which contains the front end of the project and the php file which contains the back end of the project.
+Uploaded are three files, The html file which contains the front end of the project, the php file which contains the back end of the project and a png of the database created on phpMyAdmin.
